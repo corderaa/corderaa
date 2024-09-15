@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Ugaitz from Bilbao / Spain<br><br>-📚 I'm currently on a Multiplataform Apps Development Associate Degree<br><br>-👾 Learning React and Sass<br>- ⚡ In my free time I mainly like to go hikking🚶‍♂️🌲 or diving🤿</p>
+<p align="left">I'm Ugaitz from Bilbao / Spain<br><br>-📚 I'm currently on a Multiplataform Apps Development Associate Degree<br>-👾 Learning React and Sass<br>- ⚡ In my free time I mainly like to go hikking🚶‍♂️🌲 or diving🤿</p>
 
 ###
 
