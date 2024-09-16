@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
