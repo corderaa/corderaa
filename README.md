@@ -1,14 +1,15 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+<p align="left">
+  I'm Ugaitz from Bilbao, Spain.<br><br>
+  - 💼 Working as a web application developer at a consulting firm in Bilbao, focused on Angular and Spring Boot projects.<br>
+  - 🎓 Associate Degree in Multiplatform Application Development (DAM).<br>
+  - 🚀 Currently working on the litepm project.<br>
+  - 📱 Expanding my skills in Kotlin and Android development.<br>
+  - 🌱 Passionate about continuous learning and professional growth.
+</p>
 
-<p align="left">I'm Ugaitz from Bilbao / Spain<br><br>-📚 I'm currently on a Multiplataform Apps Development Associate Degree<br>-👾 Learning Kotlin & Android development<br>-⚡ In my free time I mainly like to go hikking🚶‍♂️🌲 or diving🤿</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
