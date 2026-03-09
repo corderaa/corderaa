@@ -1,12 +1,12 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
   I'm Ugaitz from Bilbao, Spain.<br><br>
-  - 💼 Working as a web application developer at a consulting firm in Bilbao, focused on Angular and Spring Boot projects.<br>
-  - 🎓 Associate Degree in Multiplatform Application Development (DAM).<br>
-  - 🚀 Currently working on the litepm project.<br>
-  - 📱 Expanding my skills in nestJS and webapps/devops<br>
-  - 🌱 Passionate about continuous learning and professional growth.
+  - Working as a web application developer at a consulting firm in Bilbao, focused on Angular and Spring Boot projects.<br>
+  - Associate Degree in Multiplatform Application Development (DAM).<br>
+  - Currently working on the litepm project.<br>
+  - Expanding my skills in nestJS and webapps/devops<br>
+  - Passionate about continuous learning and professional growth.
 </p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
